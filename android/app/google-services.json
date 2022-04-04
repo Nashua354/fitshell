@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "31525462007",
+    "project_id": "fitshell-4fe94",
+    "storage_bucket": "fitshell-4fe94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31525462007:android:248b50d590d731dabb98f2",
+        "android_client_info": {
+          "package_name": "com.example.fitshell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31525462007-lh9nshstq92vdh2eoknbqk7empl1uj9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDncPh0TJdDOHJawxEW20M9MjlV2ZdGFio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31525462007-lh9nshstq92vdh2eoknbqk7empl1uj9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
