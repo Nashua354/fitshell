@@ -17,7 +17,7 @@ class GetDBRepo {
           exercises.add(Exercise.fromJson(element));
         }
       } else {
-        print(response.body);
+        throw (response.body);
       }
     } catch (e) {
       print('error $e');
